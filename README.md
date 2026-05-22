@@ -1,3 +1,4 @@
+```
 graph LR
   subgraph SYS["System rezerwacji sal"]
     UC1["Przejrzyj dostępność sal"]
@@ -41,3 +42,4 @@ graph LR
   UC3 -->|include| UC9
   UC4 -->|include| UC9
   UC11 -->|include| UC9
+  ```
