@@ -1,4 +1,4 @@
-```
+```mermaid
 graph LR
   subgraph SYS["System rezerwacji sal"]
     UC1["Przejrzyj dostępność sal"]
